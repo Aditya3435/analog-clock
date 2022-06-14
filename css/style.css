@@ -7,6 +7,7 @@
   text-align: center;
   margin: 1rem 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.8rem;
 }
 
 .top-text a {
@@ -35,7 +36,7 @@
 #hour {
   height: 15%;
   width: 1%;
-  top: 37.5%;
+  top: 37.9%;
   left: 49.4%;
   opacity: 0.9;
 }
@@ -43,7 +44,7 @@
   height: 22%;
   width: 1%;
   top: 31%;
-  left: 49.4%;
+  left: 49.9%;
   opacity: 0.9;
 }
 #second {
